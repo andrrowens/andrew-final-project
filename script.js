@@ -3,7 +3,7 @@ h2.textContent = "Please pardon our dust, we are under construction. Expected co
 
 document.querySelector("body").appendChild(h2);
 
-const img = bird
+const img = 'bird'
 
 const input = document.getElementById('bird');
 input.addEventListener('click', function() {
