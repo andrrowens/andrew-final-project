@@ -4,3 +4,8 @@ body {
     font-style: italic;
     text-align: center;
   }
+
+  h2 {
+    font-size: 18pt;
+    font-style: normal
+  }
